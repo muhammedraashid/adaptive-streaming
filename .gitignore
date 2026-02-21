@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# media files
+backend/media/
+
+# postgres
+*.db
+
+# docker
+*.log
+
+# mac/linux
+.DS_Store
+
+# node (future frontend)
+node_modules/
