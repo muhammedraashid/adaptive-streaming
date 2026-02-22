@@ -28,6 +28,7 @@ services:
       - ./backend/.env
     volumes:
       - ./backend:/app
+      - ./backend/media:/app/media
 
 volumes:
   pgdata:
