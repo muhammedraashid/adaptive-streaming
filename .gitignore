@@ -2,7 +2,7 @@
 __pycache__/
 *.pyc
 .env
-venv/
+adst/
 
 # media files
 backend/media/
@@ -18,3 +18,4 @@ backend/media/
 
 # node (future frontend)
 node_modules/
+.vscode/
